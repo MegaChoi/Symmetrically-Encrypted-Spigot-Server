@@ -1,0 +1,284 @@
+[18:09:54] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[18:09:55] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[18:09:56] [Worker-Main-8/INFO]: Loaded 7 recipes
+[18:09:59] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[18:09:59] [Server thread/INFO]: Loading properties
+[18:09:59] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-2740d5a-890130b (MC: 1.16.3) (Implementing API version 1.16.3-R0.1-SNAPSHOT)
+[18:09:59] [Server thread/INFO]: Debug logging is disabled
+[18:09:59] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:09:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:09:59] [Server thread/INFO]: Default game type: CREATIVE
+[18:09:59] [Server thread/INFO]: Generating keypair
+[18:09:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:09:59] [Server thread/INFO]: Using default channel type
+[18:10:02] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[18:10:05] [Server thread/WARN]: Legacy plugin SetSpawn v3.4 does not specify an api-version.
+[18:10:05] [Server thread/WARN]: Legacy plugin RaspberryJuice v1.12.1 does not specify an api-version.
+[18:10:05] [Server thread/INFO]: [SetSpawn] Loading SetSpawn v3.4
+[18:10:05] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
+[18:10:05] [Server thread/INFO]: Preparing level "world"
+[18:10:05] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:10:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:10:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:10:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:10:05] [Server thread/INFO]: View Distance: 10
+[18:10:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:10:05] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:10:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:10:05] [Server thread/INFO]: Mob Spawn Range: 6
+[18:10:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[18:10:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:10:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:10:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:10:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:10:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:10:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:10:05] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:10:05] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:10:05] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:10:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:10:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:10:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:10:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:10:05] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:10:05] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:10:05] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:10:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:10:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:10:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:10:05] [Server thread/INFO]: Max TNT Explosions: 100
+[18:10:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:10:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:10:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:10:07] [Server thread/INFO]: Preparing spawn area: 0%
+[18:10:07] [Server thread/INFO]: Preparing spawn area: 0%
+[18:10:07] [Server thread/INFO]: Preparing spawn area: 0%
+[18:10:07] [Server thread/INFO]: Preparing spawn area: 0%
+[18:10:07] [Server thread/INFO]: Time elapsed: 2279 ms
+[18:10:07] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v3.4
+[18:10:08] [Server thread/INFO]: [SetSpawn] Enabled!
+[18:10:08] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
+[18:10:08] [Server thread/INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
+[18:10:08] [Server thread/INFO]: [RaspberryJuice] Using RELATIVE locations
+[18:10:08] [Server thread/INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[18:10:08] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[18:10:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:10:08] [Server thread/INFO]: Done (2.708s)! For help, type "help"
+[18:10:13] [Thread-10/INFO]: [RaspberryJuice] Starting input thread
+[18:10:13] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53296.
+[18:10:13] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53297.
+[18:10:13] [Thread-12/INFO]: [RaspberryJuice] Starting input thread
+[18:10:13] [Thread-13/INFO]: [RaspberryJuice] Starting output thread!
+[18:10:13] [Thread-11/INFO]: [RaspberryJuice] Starting output thread!
+[18:10:13] [Thread-12/INFO]: [RaspberryJuice] send.key(uWeRIhC4i9QmHCm/sRrKXxcC4xK6r3h0lIQlm8rR01u2d/LlP/i9N7GJlay5b38e1AjuanOLAWBI0mN4SSsm+giuVmvOaEeNjAInKAbEWTFRFdnUryVPgyzK02Og1tkKotW7wPO9sioB79V02XGMNSjPjKNkHMRbmFzuilAS+II=)
+[18:10:13] [Thread-10/INFO]: [RaspberryJuice] chat.post(hvxXUOeBLiMStRcDpJFOeQ==)x/VheBFiMEqWAWYrI67HLxYO+fIGqUHftaQ11AnsP68=
+[18:10:13] [Thread-10/INFO]: [RaspberryJuice] **********************
+[18:10:13] [Thread-12/INFO]: [RaspberryJuice] New AES key: wK6Z7Lc3uXFo7FAIztRFkA==
+[18:10:13] [Thread-12/INFO]: [RaspberryJuice] New HMAC key: WDDlFVubYXF9bmiboedRvWQUhRIhH1r6
+[18:10:13] [Thread-12/INFO]: [RaspberryJuice] null
+[18:10:13] [Thread-10/INFO]: [RaspberryJuice] ciphertext integrity is verified
+[18:10:13] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53297.
+[18:10:13] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53296.
+[18:10:31] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53306.
+[18:10:31] [Thread-14/INFO]: [RaspberryJuice] Starting input thread
+[18:10:31] [Thread-15/INFO]: [RaspberryJuice] Starting output thread!
+[18:10:31] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53307.
+[18:10:31] [Thread-16/INFO]: [RaspberryJuice] Starting input thread
+[18:10:31] [Thread-17/INFO]: [RaspberryJuice] Starting output thread!
+[18:10:31] [Thread-16/INFO]: [RaspberryJuice] send.key(uC3vbnFKQiHGjltFL/xe86MVhkCpQeNtgvAlaUHnFOmEbcQa6oMMrhXNo1e9yR2xN34amYc8gWXNAQz6kbdwqsr2f+3JzoyInSz3/l4B3BA2YYbN3zLh02KEnGwblJ+KN4wX51LK7Lju0oUCdnbgRNwpY8cc1tcHuVfkXAeTyYs=)
+[18:10:31] [Thread-16/INFO]: [RaspberryJuice] New AES key: /Djr2+Orl1yKQQ2eGqeAig==
+[18:10:31] [Thread-16/INFO]: [RaspberryJuice] New HMAC key: hNNDkIKfILGFU9whhXSVw9SNrOdIkkjT
+[18:10:31] [Thread-16/INFO]: [RaspberryJuice] null
+[18:10:31] [Thread-14/INFO]: [RaspberryJuice] chat.post(U0Yv1PwQbRe64IyZJjJS8g==)jZZUmwQUT4PuVf7qf7cQz5Fi+26Pkd1cBuIcYZ+gtLQ=
+[18:10:31] [Thread-14/INFO]: [RaspberryJuice] **********************
+[18:10:31] [Thread-14/INFO]: [RaspberryJuice] ciphertext integrity is verified
+[18:10:31] [Server thread/INFO]: 59707563[m
+[18:10:31] [Thread-14/INFO]: [RaspberryJuice] null
+[18:10:31] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53307.
+[18:10:31] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53306.
+[18:10:43] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53317.
+[18:10:43] [Thread-18/INFO]: [RaspberryJuice] Starting input thread
+[18:10:43] [Thread-19/INFO]: [RaspberryJuice] Starting output thread!
+[18:10:43] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53318.
+[18:10:43] [Thread-21/INFO]: [RaspberryJuice] Starting output thread!
+[18:10:43] [Thread-20/INFO]: [RaspberryJuice] Starting input thread
+[18:10:43] [Thread-20/INFO]: [RaspberryJuice] send.key(SyJ1yWHhzxjQcS0/E3/TTMIeGTWLQu39O3hbIIBjBtKgewYyEXLxjwVJ9puE+qf/BsUejna1H0yDpbs048cTErjLrqcmPrd6FU/aFP/CYBUC+Cb0H9nUgdux1sp/HbswNG7oXgla6ytXviuNb/djCpNcye2cVsGdfklN3Mfivvk=)
+[18:10:43] [Thread-18/INFO]: [RaspberryJuice] chat.post(sou24FA7hnHKYhOZgF3Z7w==)AC8cecMKCUYrcVLzJ+LOf6ib5JwF7DJxyBrT+zTSfkY=
+[18:10:43] [Thread-18/INFO]: [RaspberryJuice] **********************
+[18:10:43] [Thread-18/INFO]: [RaspberryJuice] the message has been tampered by a third party
+[18:10:43] [Thread-20/INFO]: [RaspberryJuice] New AES key: IZsIrNh8kQVwlabrFenzKw==
+[18:10:43] [Thread-20/INFO]: [RaspberryJuice] New HMAC key: dQAMf76yS71ASQqzLhCtK69bl/SNilg5
+[18:10:43] [Thread-20/INFO]: [RaspberryJuice] null
+[18:10:43] [Thread-18/INFO]: [RaspberryJuice] null
+[18:10:43] [Server thread/INFO]: the message has been compromised[m
+[18:10:43] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53317.
+[18:10:43] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53318.
+[18:10:48] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53324.
+[18:10:48] [Thread-22/INFO]: [RaspberryJuice] Starting input thread
+[18:10:48] [Thread-23/INFO]: [RaspberryJuice] Starting output thread!
+[18:10:49] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53326.
+[18:10:49] [Thread-24/INFO]: [RaspberryJuice] Starting input thread
+[18:10:49] [Thread-25/INFO]: [RaspberryJuice] Starting output thread!
+[18:10:49] [Thread-24/INFO]: [RaspberryJuice] send.key(PxZicdrUZ2fffcCfZz/6BPM+AP7QP2E47WNEbYWBn9oWYn0lmZLVy2o9CHF3iTiVvZj/U2f8MMxI2bDt/M4vwsdqkT95sjTxnhHzc5jE4l2/IfAvuom59ZzS5Cls8p2F0Gff1cNlTJVaCoZaR8Cbshf5AYYBDiXqsOtphf1RS+Q=)
+[18:10:49] [Thread-22/INFO]: [RaspberryJuice] chat.post(PtkogL6vMBPGqWHwLcsIwA==)4QuPzWCUtrxJmswGrmfvtfXWAAxNhnK4oSGgX9mAc2A=
+[18:10:49] [Thread-22/INFO]: [RaspberryJuice] **********************
+[18:10:49] [Thread-22/INFO]: [RaspberryJuice] the message has been tampered by a third party
+[18:10:49] [Thread-24/INFO]: [RaspberryJuice] New AES key: Gp2r1NKsuxLa0Q0lMfMPXg==
+[18:10:49] [Thread-24/INFO]: [RaspberryJuice] New HMAC key: D/kbFnCVfTS92Y7Fw+RmmLTpNEPqWOrC
+[18:10:49] [Thread-24/INFO]: [RaspberryJuice] null
+[18:10:49] [Thread-22/INFO]: [RaspberryJuice] null
+[18:10:49] [Server thread/INFO]: the message has been compromised[m
+[18:10:49] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53324.
+[18:10:49] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53326.
+[18:11:00] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53334.
+[18:11:00] [Thread-26/INFO]: [RaspberryJuice] Starting input thread
+[18:11:00] [Thread-27/INFO]: [RaspberryJuice] Starting output thread!
+[18:11:01] [Thread-26/INFO]: [RaspberryJuice] null
+[18:11:01] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53334.
+[18:11:07] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53345.
+[18:11:07] [Thread-28/INFO]: [RaspberryJuice] Starting input thread
+[18:11:07] [Thread-29/INFO]: [RaspberryJuice] Starting output thread!
+[18:11:07] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53346.
+[18:11:07] [Thread-30/INFO]: [RaspberryJuice] Starting input thread
+[18:11:07] [Thread-31/INFO]: [RaspberryJuice] Starting output thread!
+[18:11:07] [Thread-30/INFO]: [RaspberryJuice] send.key(kqQ37m4RW7g8onODzgZeLAchL9I19DNtW6dv4eo4/d6gA/P7SbhpOtFG2ZJP0qNV8m9xZUx/Dwcp5Jqx4JtWcxF9cQfFmVrqh5QabJmIODwLqKIL2WzcO3Xf6hqGCRbM6GnSJFzTzEesH/ROX3BwW1AZqOJpk0gaB+9peVwgmTQ=)
+[18:11:07] [Thread-28/INFO]: [RaspberryJuice] chat.post(lOZERkq/NAG+AZd0g0k9eg==)6jCuxhj/+kG3fzu5ELb2m2fw9R23rtGuojijZHHlClc=
+[18:11:07] [Thread-28/INFO]: [RaspberryJuice] **********************
+[18:11:07] [Thread-30/INFO]: [RaspberryJuice] New AES key: YF8smExwomnd40rK/A6HOw==
+[18:11:07] [Thread-30/INFO]: [RaspberryJuice] New HMAC key: DX64VDq7aMps9WarkeeCxXbyROhEr3WY
+[18:11:07] [Thread-28/INFO]: [RaspberryJuice] the message has been tampered by a third party
+[18:11:07] [Thread-30/INFO]: [RaspberryJuice] null
+[18:11:07] [Thread-28/INFO]: [RaspberryJuice] null
+[18:11:07] [Server thread/INFO]: the message has been compromised[m
+[18:11:07] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53345.
+[18:11:07] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53346.
+[18:11:35] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53362.
+[18:11:35] [Thread-32/INFO]: [RaspberryJuice] Starting input thread
+[18:11:35] [Thread-33/INFO]: [RaspberryJuice] Starting output thread!
+[18:11:35] [Thread-32/INFO]: [RaspberryJuice] chat.post(lOZERkq/NAG+AZd0g0k9eg==)6jCuxhj/+kG3fzu5ELb2m2fw9R23rtGuojijZHHlClc=
+[18:11:35] [Thread-32/INFO]: [RaspberryJuice] **********************
+[18:11:35] [Thread-32/INFO]: [RaspberryJuice] ciphertext integrity is verified
+[18:11:35] [Server thread/INFO]: 59707563[m
+[18:11:35] [Thread-32/INFO]: [RaspberryJuice] null
+[18:11:35] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53362.
+[18:12:08] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53381.
+[18:12:08] [Thread-35/INFO]: [RaspberryJuice] Starting output thread!
+[18:12:08] [Thread-34/INFO]: [RaspberryJuice] Starting input thread
+[18:12:08] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53382.
+[18:12:08] [Thread-37/INFO]: [RaspberryJuice] Starting output thread!
+[18:12:08] [Thread-36/INFO]: [RaspberryJuice] Starting input thread
+[18:12:08] [Thread-36/INFO]: [RaspberryJuice] send.key(JI5ulvWsU/mBwxMBDAbqc723l90NYsEjfFQ9PxGje5dR37Y7DXwyih+hfE91UEzu86jFug1LbDLhVJOdXvZk1ixYM/kz8AW1XJJsDfeKSswd2MxddZHA/Dh1nlFM+HDBEfE2624jeM7qvNzbnNJ9McYcRYRj3PI9XqJRiuXhTuE=)
+[18:12:08] [Thread-36/INFO]: [RaspberryJuice] New AES key: OmP60LAsD5LfaLPSidwuRw==
+[18:12:08] [Thread-36/INFO]: [RaspberryJuice] New HMAC key: LnTh9Uuh4gqf/4imc0IBukRvBgEiLyOO
+[18:12:08] [Thread-36/INFO]: [RaspberryJuice] null
+[18:12:08] [Thread-34/INFO]: [RaspberryJuice] chat.post(7E8l6QULtsCWOc1KM29Few==)QaXBtQW49wjpsN1g45DQf0x/JAxLtQYYusr0wBHyGvk=
+[18:12:08] [Thread-34/INFO]: [RaspberryJuice] **********************
+[18:12:08] [Thread-34/INFO]: [RaspberryJuice] ciphertext integrity is verified
+[18:12:08] [Server thread/INFO]: 59707563[m
+[18:12:08] [Thread-34/INFO]: [RaspberryJuice] null
+[18:12:08] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53382.
+[18:12:09] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53381.
+[18:12:14] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53393.
+[18:12:14] [Thread-39/INFO]: [RaspberryJuice] Starting output thread!
+[18:12:14] [Thread-38/INFO]: [RaspberryJuice] Starting input thread
+[18:12:15] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53395.
+[18:12:15] [Thread-41/INFO]: [RaspberryJuice] Starting output thread!
+[18:12:15] [Thread-40/INFO]: [RaspberryJuice] Starting input thread
+[18:12:15] [Thread-40/INFO]: [RaspberryJuice] send.key(BFoYu4Q0jFOZEehR6jJfFDh4n2Rqj3LQSoVdAvRcfxaIDRAgBLlbMJ+u07ay0CWlzYc8J1Kg/rFJ4R5chTT4tu1OE5Mr3Zi7JkqmpEb3daGqHNY1z3X5ynOKPIBcm/Sl3g22jXWTXQcsozBPAU7Py3a7PHwEhQ7dbXNk5VE92WY=)
+[18:12:15] [Thread-40/INFO]: [RaspberryJuice] New AES key: 0PXgKwsGdW36NHpPkXTooQ==
+[18:12:15] [Thread-40/INFO]: [RaspberryJuice] New HMAC key: Il8dYjpyWwmuL/9MAvD0m4DN515sfzOa
+[18:12:15] [Thread-40/INFO]: [RaspberryJuice] null
+[18:12:15] [Thread-38/INFO]: [RaspberryJuice] null
+[18:12:15] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53393.
+[18:12:15] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53395.
+[18:12:24] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53411.
+[18:12:24] [Thread-42/INFO]: [RaspberryJuice] Starting input thread
+[18:12:24] [Thread-43/INFO]: [RaspberryJuice] Starting output thread!
+[18:12:24] [Thread-42/INFO]: [RaspberryJuice] chat.post(vQRnasSEwQElqMS9+Ce8YA==)w48AuEwiKphwCt8vikgiveAlUVduUPknoyZJgKCrxRw=
+[18:12:24] [Thread-42/INFO]: [RaspberryJuice] **********************
+[18:12:24] [Thread-42/INFO]: [RaspberryJuice] ciphertext integrity is verified
+[18:12:24] [Thread-42/INFO]: [RaspberryJuice] null
+[18:12:24] [Server thread/INFO]: 59707563[m
+[18:12:24] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53411.
+[18:14:05] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53438.
+[18:14:05] [Thread-44/INFO]: [RaspberryJuice] Starting input thread
+[18:14:05] [Thread-45/INFO]: [RaspberryJuice] Starting output thread!
+[18:14:06] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53439.
+[18:14:06] [Thread-46/INFO]: [RaspberryJuice] Starting input thread
+[18:14:06] [Thread-47/INFO]: [RaspberryJuice] Starting output thread!
+[18:14:06] [Thread-46/INFO]: [RaspberryJuice] send.key(FVCHaa7k1dKLoB1XfOJQ05YYqMOqZqLKM+CXLWfM65HMQ4K+2gjpLOCYFxVfK2Bod308cB50J39hFZLWrgGpfG19QMjEp6NcFLn+ouJGsxYlL4xzxaHQ9ocmwjQtnuG6OAX+zfMg7yXOoLaAaguAGJhrEdnaO0EBJ/shY55GDes=)
+[18:14:06] [Thread-46/INFO]: [RaspberryJuice] New AES key: sQp9UE/h853ZVRtnROwq/A==
+[18:14:06] [Thread-44/INFO]: [RaspberryJuice] chat.post(3yYUmbPf/G6CNCl89/VMVQ==)krEUoSWHGm4vhLMbjys7RDBEcQIW3Izcce0wd77kML4=
+[18:14:06] [Thread-44/INFO]: [RaspberryJuice] **********************
+[18:14:06] [Thread-46/INFO]: [RaspberryJuice] New HMAC key: QjHT2wSKPXH2QsMqAGVw2SkmAcs3H7wU
+[18:14:06] [Thread-46/INFO]: [RaspberryJuice] null
+[18:14:06] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53438.
+[18:14:06] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53439.
+[18:14:55] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53455.
+[18:14:55] [Thread-49/INFO]: [RaspberryJuice] Starting output thread!
+[18:14:55] [Thread-48/INFO]: [RaspberryJuice] Starting input thread
+[18:14:56] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53457.
+[18:14:56] [Thread-50/INFO]: [RaspberryJuice] Starting input thread
+[18:14:56] [Thread-51/INFO]: [RaspberryJuice] Starting output thread!
+[18:14:56] [Thread-50/INFO]: [RaspberryJuice] send.key(CEa1BqRi8P5C6rV2WcvvsbuKXXYZY35o/L5AmuIff1NEDzpNN5TwcxNmlQ/LVdMwnzGTcCJcXiaoQHABQd5mWIWhO2M6WpIRXUuy2csyUGviOhqZa6S9wo8ybzxpbAD3/gDPf8GRqE/HjDWD+cQg8bnRen8f7S/rjc2rN+b0dUQ=)
+[18:14:56] [Thread-50/INFO]: [RaspberryJuice] New AES key: UPgwkhA6Yaw9KF/h+tZsgQ==
+[18:14:56] [Thread-50/INFO]: [RaspberryJuice] New HMAC key: nzDDH5TdOREjc8Ae9KT3aEWUGcG3BOY+
+[18:14:56] [Thread-50/INFO]: [RaspberryJuice] null
+[18:14:56] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53457.
+[18:14:58] [Thread-48/INFO]: [RaspberryJuice] chat.post(x/bd5qg+vC6O1qFjLXOzsg==)vR0cea6Z8V5+JPoweWvyP9iIeABEpBALS5nLfMQ3YMg=
+[18:14:58] [Thread-48/INFO]: [RaspberryJuice] **********************
+[18:14:58] [Thread-48/INFO]: [RaspberryJuice] ciphertext integrity is verified
+[18:14:58] [Thread-48/INFO]: [RaspberryJuice] null
+[18:14:58] [Server thread/INFO]: 59707563[m
+[18:14:58] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53455.
+[18:15:00] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53465.
+[18:15:00] [Thread-52/INFO]: [RaspberryJuice] Starting input thread
+[18:15:00] [Thread-53/INFO]: [RaspberryJuice] Starting output thread!
+[18:15:01] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53466.
+[18:15:01] [Thread-55/INFO]: [RaspberryJuice] Starting output thread!
+[18:15:01] [Thread-54/INFO]: [RaspberryJuice] Starting input thread
+[18:15:01] [Thread-54/INFO]: [RaspberryJuice] send.key(VwrzANUzVWLHgrkG8EqRhBD4Oe23ITKGtrmv4+bDL/s+R6V5OJKQiTmJatmNXJqlRI9FDVmojYtEk5/wVnNPuR4xhWe9OiAGySlbUMtdZY2WiFQLiliCwkn89mZKlTmW4qtaUzDrOaOdo+73x34AGzUbUQZx0JIKxhQyVZrLXJw=)
+[18:15:01] [Thread-54/INFO]: [RaspberryJuice] New AES key: Fv7QoP76Ai8a7TO5CwodbQ==
+[18:15:01] [Thread-54/INFO]: [RaspberryJuice] New HMAC key: qKI4Nd6JA3mP/gkRVZTKFsePZCLrHoJ+
+[18:15:01] [Thread-54/INFO]: [RaspberryJuice] null
+[18:15:01] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53466.
+[18:15:03] [Thread-52/INFO]: [RaspberryJuice] chat.post(tiWTvkI65Xlc+cxlF8+3Cw==)Auuk9X77cp1Yk+1qfkkXsJUht+Ytzo6WKQ4BEa/4eiA=
+[18:15:03] [Thread-52/INFO]: [RaspberryJuice] **********************
+[18:15:03] [Thread-52/INFO]: [RaspberryJuice] ciphertext integrity is verified
+[18:15:03] [Server thread/INFO]: 59707563[m
+[18:15:03] [Thread-52/INFO]: [RaspberryJuice] null
+[18:15:03] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53465.
+[18:15:11] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53476.
+[18:15:11] [Thread-59/INFO]: [RaspberryJuice] Starting input thread
+[18:15:11] [Thread-60/INFO]: [RaspberryJuice] Starting output thread!
+[18:15:11] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53477.
+[18:15:11] [Thread-62/INFO]: [RaspberryJuice] Starting output thread!
+[18:15:11] [Thread-61/INFO]: [RaspberryJuice] Starting input thread
+[18:15:11] [Thread-61/INFO]: [RaspberryJuice] send.key(gvR1ZywwMo5+z2pBZZKzrGyoSEVV0clVn7v1Vc9aphXe0dG/ySDI5xt02BQiMXyNqq0EIVzoArKDmf4ucdY8Lcs2HsHfO97tvby+k06pffA8Vja0tLBo8ewUbNbIBCKjA4zh2hYbh5YHxotH2cenqJ9pTi539zPYzDYxBFTxE8k=)
+[18:15:11] [Thread-61/INFO]: [RaspberryJuice] New AES key: lGG7jgfO6RCSvKyCtDSN9g==
+[18:15:11] [Thread-61/INFO]: [RaspberryJuice] New HMAC key: nqcfwLqFRX/Dp6Q8KYUrCidQWv4nGo9a
+[18:15:11] [Thread-61/INFO]: [RaspberryJuice] null
+[18:15:11] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53477.
+[18:15:12] [Thread-59/INFO]: [RaspberryJuice] chat.post(F94CeKPVSJMuJOE7gL3b8g==)i9z1r155XpxxMLZLMlLH9InxVb/ZkRUug7DG3Fm3Dug=
+[18:15:12] [Thread-59/INFO]: [RaspberryJuice] **********************
+[18:15:12] [Thread-59/INFO]: [RaspberryJuice] ciphertext integrity is verified
+[18:15:12] [Server thread/INFO]: 59707563[m
+[18:15:12] [Thread-59/INFO]: [RaspberryJuice] null
+[18:15:12] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53476.
+[18:15:15] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53484.
+[18:15:15] [Thread-63/INFO]: [RaspberryJuice] Starting input thread
+[18:15:15] [Thread-64/INFO]: [RaspberryJuice] Starting output thread!
+[18:15:15] [Thread-9/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:53485.
+[18:15:15] [Thread-65/INFO]: [RaspberryJuice] Starting input thread
+[18:15:15] [Thread-66/INFO]: [RaspberryJuice] Starting output thread!
+[18:15:15] [Thread-65/INFO]: [RaspberryJuice] send.key(nLU+eAJKcY/ZeeLdYwGLlB0OVrCGU4D6KBZPkgUQK/c27t2umgCxHxqCQZf/celyxaA0ibqVIo6eeSebxPw8QwgVE1EpXr/OhcFKRaSPEqOFDHwRqXv6i8Ovb66ikkVOZfhP/2yKgcLyrEf9dLRx+9vmJJLnFgxnQCSX6lWw640=)
+[18:15:15] [Thread-65/INFO]: [RaspberryJuice] New AES key: Ic0I7OVlYO+HybxBDFN9bA==
+[18:15:15] [Thread-65/INFO]: [RaspberryJuice] New HMAC key: 2xy/qsZiulXXGGC6c+g0k5dik+UiohNi
+[18:15:15] [Thread-65/INFO]: [RaspberryJuice] null
+[18:15:15] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53485.
+[18:15:16] [Thread-63/INFO]: [RaspberryJuice] chat.post(F0ep1btM5qVWpkjVf7Z4ew==)3FFMtsNzUfGpkbZTfqvS5FtdEafJ7vxwHQxoivLPnRA=
+[18:15:16] [Thread-63/INFO]: [RaspberryJuice] **********************
+[18:15:16] [Thread-63/INFO]: [RaspberryJuice] ciphertext integrity is verified
+[18:15:16] [Thread-63/INFO]: [RaspberryJuice] null
+[18:15:16] [Server thread/INFO]: 59707563[m
+[18:15:16] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:53484.

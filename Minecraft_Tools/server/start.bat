@@ -1,0 +1,1 @@
+java -Xms512m -Xmx1024m -jar -DIReallyKnowWhatIAmDoingISwear spigot-1.16.3.jar -o true
